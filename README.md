@@ -1,8 +1,9 @@
 # 👋 Maximiliano Fallini
 
 ### 💻 Desarrollador Full Stack | React | Node.js | MongoDB
+### 🎂 Pastelero Profesional
 
-Soy un desarrollador apasionado por crear aplicaciones web modernas, escalables y con excelente experiencia de usuario. Me encanta trabajar tanto en frontend como en backend, y siempre estoy buscando aprender nuevas tecnologías.
+Soy un desarrollador apasionado por crear aplicaciones web modernas, escalables y con excelente experiencia de usuario. Me encanta trabajar tanto en frontend como en backend, y siempre estoy buscando aprender nuevas tecnologías. Además, cuento con una formación profesional en pastelería.
 
 ---
 
@@ -57,23 +58,21 @@ Soy un desarrollador apasionado por crear aplicaciones web modernas, escalables 
 ## 🎓 Formación
 
 - 📖 **Desarrollo Web Full Stack** - Plataforma de Cursos Online
+- 🎂 **Pastelería Profesional** - Carrera Especializada "IPAC Gastronomia"
 
 ---
 
 ## 💼 Conecta Conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/maximilianofallini" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/maxfallini" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://github.com/MaximilianoFallini" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:tu-email@ejemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://discord.com/users/maxithesudaka" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:maximilianofallini@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -83,6 +82,10 @@ Soy un desarrollador apasionado por crear aplicaciones web modernas, escalables 
 
 ✨ Me apasiona la programación y resolver problemas complejos  
 🎨 Diseño interfaces intuitivas y modernas  
-📱 Desarrollo responsive y mobile
-🚀 Optimización de rendimiento y escalabilidad   
+📱 Desarrollo responsive y mobile-first  
+🚀 Optimización de rendimiento y escalabilidad  
+🎂 Creativo en y fuera del código
 
+---
+
+**⭐ Si te gusta mi trabajo, considera dejarme una estrella en mis repositorios. ¡Gracias!**
