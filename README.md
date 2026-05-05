@@ -61,4 +61,3 @@
 📱 Desarrollo responsive
 🚀 Optimización de rendimiento y escalabilidad  
 🔎 Me gusta indagar en la optimización de sistemas operativos y tecnologías  
-🎂 Creativo en y fuera del código
